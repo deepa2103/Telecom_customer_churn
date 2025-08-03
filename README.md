@@ -58,13 +58,16 @@ model.fit(X_train, y_train)
 - Confusion Matrix
 
 Used Scikit-learn for classification report.
+
 ## 🧠 Business Recommendations
 
 - Promote long-term contracts to reduce churn
 - Improve onboarding and engagement for new users (<12 months)
 - Encourage auto-payment methods to reduce electronic check churn
 - Investigate dissatisfaction among fiber optic users
+
 ## 📁 File Structure
+
 ## 🚀 How to Run
 
 1. Clone the repo
